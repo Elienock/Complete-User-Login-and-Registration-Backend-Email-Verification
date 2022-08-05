@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.url.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.url.username."
+    },
+    {
+      "name": "spring.jpa.hibernate.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.properties.hibernate.dialect."
+    },
+    {
+      "name": "spring.jpa.hibernate.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.show-sql."
+    }
+  ] }
